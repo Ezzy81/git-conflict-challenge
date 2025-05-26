@@ -1,5 +1,4 @@
-# Ceci est la version locale en conflit.
-# modif sur GitHub en distant
-# modif en local via vs code et modif sur GitHub en distant
-# modif en local via vs code
-# modif sur GitHub en distant
+# Ceci est la version fusionnée après conflit.
+# Modif en local via VS Code
+# Modif sur GitHub en distant
+# Modif faite en local et sur GitHub
