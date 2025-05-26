@@ -1,1 +1,1 @@
-# Ceci est la version GitHub.
+# Ceci est la version locale en conflit.
